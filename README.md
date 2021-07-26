@@ -115,4 +115,5 @@ cd gatsby-blog
 npm run develop         
 
 npm install gatsby-transformer-remark
+npm install gatsby-plugin-styled-components styled-components babel-plugin-styled-components
 ```
